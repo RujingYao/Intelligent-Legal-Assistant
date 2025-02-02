@@ -12,11 +12,4 @@
 
 ---
 
-## System Usage Example
-
-![image](https://github.com/RujingYao/Intelligent Legal Assistant/blob/main/image/system-usage.png)
-
-
----
-
 **📧 Contact Us**: rjyao@mail.nankai.edu.cn; wuyiquan@zju.edu.cn; xliu14@wpi.edu  
